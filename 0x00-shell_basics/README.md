@@ -12,4 +12,8 @@
 12. 11-lists: A script that list items
 13. 12-file_type: A script that prints the type of file.
 14. 13-symbolic_link" A script that creates a sym-link
-15. 14-copy_html: A script that copies files from one directoryto another  
+15. 14-copy_html: A script that copies files from one directoryto another
+16. 100-lets_move: A script that moves all files starting with uppercase ;letters
+17. 101-clean_emacs: A script that deletes all emacs files
+18. 102-tree: A script that creates directory and parent directory
+19. 103-commas: A script that puts comma ......  
