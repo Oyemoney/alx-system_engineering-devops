@@ -9,3 +9,7 @@
 9. 8-firstdelete: A script that deletes a file .
 10. 9-firstdirdeletion: A script that deletes a directory.
 11. 10-back: A script that changes the working directory to the previous one 
+12. 11-lists: A script that list items
+13. 12-file_type: A script that prints the type of file.
+14. 13-symbolic_link" A script that creates a sym-link
+15. 14-copy_html: A script that copies files from one directoryto another  
