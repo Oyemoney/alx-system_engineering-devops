@@ -16,4 +16,5 @@
 16. 100-lets_move: A script that moves all files starting with uppercase ;letters
 17. 101-clean_emacs: A script that deletes all emacs files
 18. 102-tree: A script that creates directory and parent directory
-19. 103-commas: A script that puts comma ......  
+19. 103-commas: A script that puts comma ......
+20. school.mgc: A file that is used to determined if a string is present in another file  
