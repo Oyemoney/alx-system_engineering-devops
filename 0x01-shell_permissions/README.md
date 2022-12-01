@@ -9,4 +9,6 @@
 9. 8-James_Bond: same as above
 10. 9-John_Doe: Same as above 
 11. 10-mirror_permissions: Same thing
-12. 11-directories_permissions: same chmod ..    
+12. 11-directories_permissions: same chmod ..
+13. 12-directory_permissions: A script that creates a dir with preset mode
+14. 13-change_group: A script that ......   
