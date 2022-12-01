@@ -8,4 +8,5 @@
 8. 7-everybody: Same as the one above
 9. 8-James_Bond: same as above
 10. 9-John_Doe: Same as above 
-11. 10-mirror_permissions: Same thing    
+11. 10-mirror_permissions: Same thing
+12. 11-directories_permissions: same chmod ..    
