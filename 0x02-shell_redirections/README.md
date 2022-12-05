@@ -3,4 +3,7 @@
 3. 2-hellofile: A script that displays the content of a file
 4. 3-twofiles: A script that displays the contents of two files
 5. 4-lastlines: A script that displays the last 10 lines of a file
-6. 5-firstlines: A acript that displays the first 10 lines of a file 
+6. 5-firstlines: A acript that displays the first 10 lines of a file
+7. 6-third_line: A script that displays the third line of a file 
+8. 7-file: A script that create a useless ffile
+9. 8-cwd_state: A script that creates a file
