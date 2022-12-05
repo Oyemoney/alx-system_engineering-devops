@@ -7,3 +7,4 @@
 7. 6-third_line: A script that displays the third line of a file 
 8. 7-file: A script that create a useless ffile
 9. 8-cwd_state: A script that creates a file
+10. 9-duplicate_last_line: A script that duplicates the last line of a givn file11. 10-no_more_js: A script that deletes all js extensions ina directory amd subdirectories 
