@@ -1,0 +1,2 @@
+#!/bin/baah
+echo {a..z}{a..z} | tr ' ' '\n' | grep -v oo
